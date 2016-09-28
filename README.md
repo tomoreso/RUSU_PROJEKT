@@ -1,1 +1,2 @@
 # RUSU_PROJEKT
+U seminarskom radu zadatak je bio upoznati se sa algoritmom Random forest (slučajne šume). Kako bi se što preciznije upoznali sa samim Random forestom, potrebno je poznavati "temelje" na kojima se zasnivaju stabla odlučivanja. Upoznali smo se sa pojmovima strojnog učenja, nadgledanog učenja i njihovim izvendenicama i metodama. Za kraj je ubačen programski kod koji opisuje ponašanje Random foresta. 
